@@ -118,20 +118,6 @@ p {
     max-width: 150px;
 }
 
-/* Sets formatting for benefit-brand image */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Sets foramtting for benefit-cost image */
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* Sets formatting for SEO content in main section */
 .search-engine-optimization {
     margin-bottom: 20px;
