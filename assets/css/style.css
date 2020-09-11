@@ -105,13 +105,13 @@ p {
     color: #ffffff;
 }
 
-/* Sets formatting for benefit-lead header */
+/* Sets formatting for benefits headers */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Sets formatting for benefit-lead image */
+/* Sets formatting for benefits images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
