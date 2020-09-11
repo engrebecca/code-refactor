@@ -119,27 +119,7 @@ p {
 }
 
 /* Sets formatting for SEO content in main section */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Sets formatting for Online Reputation Management content in main section */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Sets formatting for Social-Media marketing content in main section */
-.social-media-marketing {
+.main-section-format {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -149,34 +129,12 @@ p {
 }
 
 /* Sets formatting for SEO image */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* Sets formatting for Online Reputation Management Image */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* Sets formatting for Social-Media Marketing Image */
-.social-media-marketing img {
+.main-section-format img {
     max-height: 200px;
 }
 
 /* Sets formatting for SEO  h2 */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Sets formatting for Online Reputation h2 */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Sets formatting for Social-Media Marketing h2 */
-.social-media-marketing h2 {
+.main-section-format h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
