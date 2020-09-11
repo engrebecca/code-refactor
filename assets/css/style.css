@@ -111,18 +111,6 @@ p {
     text-align: center;
 }
 
-/* Sets formatting for benefit-brand header */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Sets formatting for benefit-cost header */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 /* Sets formatting for benefit-lead image */
 .benefit-lead img {
     display: block;
