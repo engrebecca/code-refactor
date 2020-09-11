@@ -17,7 +17,7 @@ body {
     color: #ffffff;
 }
 
-/* Sets formatting for header */
+/* Sets formatting for header h1 text */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -147,7 +147,7 @@ p {
     text-align: center;
 }
 
-/* Sets formatting for footer h2 */
+/* Sets formatting for footer h4 */
 .footer h4 {
     font-size: 20px;
 }
