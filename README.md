@@ -1,7 +1,7 @@
 # Horiseon Code Refactor
 
 ## Summary
-Refactored Horiseon's website to make it more accessible and optimized for search engines.
+Refactored Horiseon's website to make it more accessible and optimized for search engines. The improved web accessibility ensures people with disabilities or socio-economic restrictions have access to the site.
 
 ## Updates
 * Updated HTML elements to follow a logical structure
