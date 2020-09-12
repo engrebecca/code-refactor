@@ -12,6 +12,7 @@ Refactored Horiseon's website to make it more accessible and optimized for searc
 * Updated headings to be in sequential order
 * Added a title element
 * Updated navigation links
+* Consolidated CSS selectors and properties
 
 ***
 
